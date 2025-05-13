@@ -1,4 +1,4 @@
-# mental-health-predictor
+# Task 2 mental-health-predictor
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
